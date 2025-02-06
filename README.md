@@ -1,10 +1,7 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 
 ## Video de Demostración
-<video width="640" height="360" autoplay muted>
-  <source src="assets/video-demostración2.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+![Video de Demostración](assets/demo.gif)
 
 ## Descripción del Proyecto
 Este proyecto replica el clásico juego del amigo secreto navideño: ingresas los nombres de tus amigos y, al presionar el botón "sorterar amigo", se selecciona aleatoriamente uno para ser tu amigo secreto.
